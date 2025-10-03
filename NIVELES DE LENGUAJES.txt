@@ -1,0 +1,60 @@
+NIVELES DE LENGUAJES
+
+-Lenguajes de bajo Nivel --> Lenguaje ensamblador, C++ (se comunica de la forma mas directa con la compu)
+
+-Lenguaje de alto Nivel --> Python, Java (Se comunican directamente con la computadora pero de forma mas traducida [Facil])
+
+-Lenguaje de cuarta generacion --> SQL (No se conectan directamente con la computadora)
+
+------------------------------------------------------------------------------------------------------------------------------
+
+TIPOS DE LENGUJE DE PROGRAMACION
+
+-Compilados (C++) --> Traduce todo el codigo fuente al lenguaje de maquina de una vez, creando un archivo ejecutable. Suelen
+		      ser mas rapidos en ejecucion.
+
+-Interpretados (Pyhton) --> Un interprete lee el codigo fuente y lo traduce linea por linea a medida que se ejecuta. Suelen
+			    ser mas felixibles y faciles de depurar.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+ABSTRACCION
+
+-De datos: Usar estructuras como listas o arreglos sin preocuparse de como se gestiona la memoria fisica
+
+-Funcional: Encapsular una tarea compleja en una function, que puede ser llamada sin conocer su implementacion interna.
+
+-Orientada a Objetos: Modelar entidades del mundo real como "Objetos con propiedades (datos) y metodos (comportamientos).
+
+------------------------------------------------------------------------------------------------------------------------------
+
+COMO RESOLVER PROBLEMAS?
+
+1.Analisis del problema
+2.Diseño del algoritmo
+3.Codificacion (Implementacion)
+4.Compilacion y ejecucion
+5.Verificacion
+6.Depuracion
+7.Mantenimiento
+8.Documentacion
+
+------------------------------------------------------------------------------------------------------------------------------
+
+PENSAMIENTO COMPUTACIONAL
+
+-Metodologia para resolver problemas
+
+-Se inspira en la logica de las computadoras, pero se puede aplicar
+
+------------------------------------------------------------------------------------------------------------------------------
+
+METODO FEYNMAN
+
+es como hablarle a tus weones como las ideas y aha
+
+------------------------------------------------------------------------------------------------------------------------------
+
+RUBBER DUCK
+
+es como el de hablarle el codigo type shi para que vos mismo expliques tu shi y ahi te das cuenta si cocinaste o no
